@@ -2,7 +2,7 @@
 
 Surface-following ivy generator for Blender built for controlled environmental art and architectural objects.
 
-> Independent experimental add-on by Magnetic Works. Blender 5.0+ is declared by the source package; other versions have not been verified.
+> Independent experimental Blender add-on. Blender 5.0+ is declared by the source package; other versions have not been verified.
 
 ## Capabilities
 
@@ -15,7 +15,7 @@ Surface-following ivy generator for Blender built for controlled environmental a
 
 ## Install
 
-1. Download `rg_realistic_ivy-1.4.0.zip` from [Releases](https://github.com/Chiesu/magnetic-ivy/releases/latest).
+1. Download `rg_realistic_ivy-1.4.0.zip` from [Releases](https://github.com/Chiesu/realistic-ivy/releases/latest).
 2. In Blender 5.0+, choose **Edit > Preferences > Get Extensions > Install from Disk** (menu wording depends on Blender version).
 3. Select the ZIP and enable **RG Realistic Ivy**.
 4. Find **Ivy** in the 3D Viewport sidebar (`N`).
