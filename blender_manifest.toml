@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "rg_realistic_ivy"
+version = "1.4.0"
+name = "RG Realistic Ivy"
+tagline = "Grow surface-following ivy from existing vine geometry"
+maintainer = "Magnetic Works contributors"
+type = "add-on"
+blender_version_min = "5.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[build]
+paths_exclude_pattern = ["__pycache__/", "*.pyc", ".git/", ".github/", "docs/", "*.zip", "*.md"]
