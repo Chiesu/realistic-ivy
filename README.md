@@ -4,7 +4,11 @@ Surface-following ivy generator for Blender built for controlled environmental a
 
 > Independent experimental Blender add-on. Blender 5.0+ is declared by the source package; other versions have not been verified.
 
+<img width="1920" height="1080" alt="hero" src="https://github.com/user-attachments/assets/dc899aa5-5b6b-47a9-8bc8-b43388dd4ff9" />
+
 ## Capabilities
+
+<img width="1920" height="1080" alt="growth-controls" src="https://github.com/user-attachments/assets/50162a20-9483-4807-81f4-bb3e5cd003aa" />
 
 - Grow runners and branches across the selected mesh target using an existing vine/leaf source object.
 - Edit density, coverage, wandering, branch distribution, spacing, taper, orientation and per-target settings.
@@ -21,6 +25,8 @@ Surface-following ivy generator for Blender built for controlled environmental a
 4. Find **Ivy** in the 3D Viewport sidebar (`N`).
 
 ## Basic workflow
+
+<img width="1920" height="1080" alt="target-setup" src="https://github.com/user-attachments/assets/7b40fe7c-8b45-47fd-8d0b-1e1c578fecd4" />
 
 1. Prepare a mesh as the **target** (for example a wall or tomb).
 2. Prepare a separate mesh object to serve as the **ivy source** (leaf/branch geometry).
